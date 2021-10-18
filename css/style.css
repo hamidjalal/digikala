@@ -1,0 +1,67 @@
+body {
+  direction: rtl;
+}
+div{
+  margin-top: 20px;
+}
+.img1 {
+  width: 100%;
+}
+.img2 {
+  width: 15%;
+}
+.img3 {
+  width: 100%;
+  border-radius: 10px;
+}
+.img4 {
+  width: 100%;
+  border-radius: 10px;
+}
+.img5 {
+  width: 100%;
+  
+  border-radius: 10px;
+}
+.img7{
+  width: 16%;
+}
+.img8{
+  width: 27%;
+
+  border-radius: 10px;
+}
+.img9{
+  width: 24%;
+  border-radius: 10px;
+}
+.img10{
+  width: 49%;
+  border-radius: 10px;
+}
+input {
+  border-radius: 10px;
+  width: 60%;
+}
+button {
+  width: 20%;
+  height: 50%;
+  float: left;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  width: 10%;
+  float:right;
+}
+li a {
+  display: block;
+  color: black;
+  text-align:center;
+  padding: 5px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: pink;
+}
